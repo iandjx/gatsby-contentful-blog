@@ -51,9 +51,7 @@ module.exports = {
     "gatsby-plugin-postcss",
     {
       resolve: `gatsby-plugin-purgecss`,
-      options: { tailwind: true }
-    }
+      options: { tailwind: true },
+    },
   ],
-
-
 };
