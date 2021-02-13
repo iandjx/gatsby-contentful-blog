@@ -48,5 +48,12 @@ module.exports = {
       resolve: "gatsby-source-contentful",
       options: contentfulConfig,
     },
+    "gatsby-plugin-postcss",
+    {
+      resolve: `gatsby-plugin-purgecss`,
+      options: { tailwind: true }
+    }
   ],
+
+
 };
