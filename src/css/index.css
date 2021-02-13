@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* .hero-background {
+.hero-background {
   mask-image: linear-gradient(to right, black 20%, transparent 70%);
   -webkit-mask-image: linear-gradient(to right, black 20%, transparent 70%);
-} */
+}
