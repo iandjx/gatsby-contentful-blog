@@ -1,5 +1,4 @@
 import { Link } from "gatsby";
-import styles from "./navigation.module.css";
 import React from "react";
 
 export default ({ fixed }) => {
